@@ -1,0 +1,28 @@
+{
+"Best-Seller": [
+    {
+      "id": 1,
+      "name": "Taste of Provisions Gift Box",
+      "image": "https://www.patagoniaprovisions.com/cdn/shop/files/taste_of_provisions_box.jpg?v=1727472354&width=320",
+      "price": "$184.00"
+    },
+    {
+      "id": 2,
+      "name": "Mussels Variety - 3 Pack",
+      "image": "https://www.patagoniaprovisions.com/cdn/shop/files/Mussels_Varietypk.jpg?v=1725395815&width=320",
+      "price": "$24.00"
+    },
+    {
+      "id": 3,
+      "name": "Provisions Best Sellers Gift Box",
+      "image": "https://www.patagoniaprovisions.com/cdn/shop/files/20240429_Bestsellersbox.jpg?v=1720463684&width=320",
+      "price": "$85.00"
+    },
+    {
+      "id": 4,
+      "name": "Organic Crackers Variety Pack",
+      "image": "https://www.patagoniaprovisions.com/cdn/shop/files/Crackers_VarietyPack1.jpg?v=1727473191&width=320",
+      "price": "$24.00"
+    }
+  ]
+}
